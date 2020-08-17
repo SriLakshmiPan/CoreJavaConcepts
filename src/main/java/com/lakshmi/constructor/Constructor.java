@@ -1,9 +1,6 @@
-package com.java.BasicJava;
-
+package com.lakshmi.constructor;
 public class Constructor {
-	
 	int num;
-
 	Constructor() {// constructor-
 		num = 100;
 	}
