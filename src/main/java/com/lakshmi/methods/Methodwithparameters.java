@@ -1,4 +1,5 @@
 package com.lakshmi.methods;
+
 public class Methodwithparameters {
 //method with parameters
 	public static void main(String[] args) {
@@ -7,6 +8,7 @@ public class Methodwithparameters {
 		int c = minFunction(a, b);
 		System.out.println("Minimum Value = " + c);
 	}
+
 	/** returns the minimum of two numbers */
 	public static int minFunction(int n1, int n2) {
 		int min;
