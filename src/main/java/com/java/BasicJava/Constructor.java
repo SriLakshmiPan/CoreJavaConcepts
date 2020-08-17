@@ -1,4 +1,4 @@
-package com.java.tutorialpoint;
+package com.java.BasicJava;
 
 public class Constructor {
 	
