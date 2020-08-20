@@ -21,4 +21,4 @@ public static <E> void printArray( E[] inputArray) {//<E> for generic method
 		System.out.println("Array characterArray contains : ");
 		printArray(charArray);//pass a character array
 	}
-}
+}//
