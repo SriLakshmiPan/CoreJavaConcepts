@@ -16,7 +16,7 @@ public class Interfaces implements Animal {// implements is a keyword for interf
 
 	public void travel() {
 		System.out.println("Mammal travels");
-	}
+	}//
 
 	/*
 	 * public int noofLegs() { return 0; }
