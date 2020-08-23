@@ -10,4 +10,5 @@ public int number;
 System.out.println("Mailing check to "+name + " "+address);		
 	}
 
+	
 }
