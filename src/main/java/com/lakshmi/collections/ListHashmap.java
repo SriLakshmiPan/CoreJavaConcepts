@@ -2,7 +2,7 @@ package com.lakshmi.collections;
 
 import java.util.*;
 //example for list,linkedlist,hashset,hashmap
-public class Collections {
+public class ListHashmap {
 	public static void main(String[] args) {
 		//Array list
 		List a1=new ArrayList();
@@ -20,7 +20,7 @@ public class Collections {
 				System.out.println("Linked list elements");
 				System.out.println("\t"+l1);
 	//Hashset 
-				Set s1=new HashSet();
+				HashSet s1=new HashSet();
 				s1.add("zara");
 				s1.add("mahanz");
 				s1.add("ayan");
