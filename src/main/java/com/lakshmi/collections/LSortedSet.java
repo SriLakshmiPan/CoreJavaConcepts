@@ -1,7 +1,7 @@
 package com.lakshmi.collections;
 import java.util.*;
 //Sortedset extends set to handle sorted sets
-public class SortedSet {
+public class LSortedSet {
 
 	public static void main(String[] args) {
 	//created the sorted set	

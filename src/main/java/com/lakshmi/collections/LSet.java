@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.TreeSet;
 
 //A set is a collection that cannot contain duplicate elements(set contain unique elements) 
-public class Set {
+public class LSet {
 	public static void main(String[] args) {
 		int count[] = { 34, 22, 10, 60, 30};
 		HashSet<Integer> set = new HashSet <Integer>();
