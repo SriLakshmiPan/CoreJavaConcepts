@@ -1,4 +1,4 @@
-package com.lakshmi.inheritance;
+package com.lakshmi.oops;
 
 // inheritance means using properties of one class in another using extends keyword
 class SingleInheritance {

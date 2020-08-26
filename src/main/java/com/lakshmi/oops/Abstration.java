@@ -1,4 +1,4 @@
-package com.java.abstration;
+package com.lakshmi.oops;
 
 //Abstation,hide internal data  and showing functionality only
 class Triangle {

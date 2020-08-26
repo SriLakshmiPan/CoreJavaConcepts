@@ -1,4 +1,4 @@
-package com.java.generic;
+package com.lakshmi.generic;
 
 import javax.swing.Box;
 

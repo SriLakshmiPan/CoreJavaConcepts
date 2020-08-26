@@ -2,7 +2,7 @@ package com.lakshmi.collections;
 
 import java.util.*;
 //example for list,linkedlist,hashset,hashmap
-public class ZListHashmap {
+public class LListHashmap {
 	public static void main(String[] args) {
 		//Array list
 		List a1=new ArrayList();
@@ -28,7 +28,7 @@ public class ZListHashmap {
 				System.out.println("Set elements");
 				System.out.println("\t"+s1);
 	//Hashmap 
-			LMap m1=new HashMap();
+			HashMap m1=new HashMap();
 				m1.put("zara","8");
 				m1.put("mahanz","32");
 				m1.put("ayan","45");
