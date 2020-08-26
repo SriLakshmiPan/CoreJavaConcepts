@@ -1,4 +1,4 @@
-package com.java.encapsulation;
+package com.lakshmi.oops;
 
 public class Encapsulation {
 

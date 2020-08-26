@@ -1,4 +1,4 @@
-package com.lakshmi.polymorphism;
+package com.lakshmi.oops;
 //runtime polymorphism/dynamic binding
 class runtime1{
 int i=10;

@@ -1,4 +1,4 @@
-package com.lakshmi.polymorphism;
+package com.lakshmi.oops;
 
 // compiletime polymorphism,early binding/static binding
 // polymorphism is the ability of an object to take on many forms(one in many ways) 

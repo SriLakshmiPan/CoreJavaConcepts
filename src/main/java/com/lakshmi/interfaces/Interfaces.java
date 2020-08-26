@@ -1,4 +1,4 @@
-package com.java.interfaces;
+package com.lakshmi.interfaces;
 
 //an iterface is a reference type in java,it is a collection of abstract methods
 //we can't instantiate an interface,doesn't contatin any constructors

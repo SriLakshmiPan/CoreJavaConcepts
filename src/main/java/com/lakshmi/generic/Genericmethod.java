@@ -1,4 +1,4 @@
-package com.java.generic;
+package com.lakshmi.generic;
 //generic methods allow programmers to specify set of related methods
 //all generic method declaration have <E>
 public class Genericmethod {
